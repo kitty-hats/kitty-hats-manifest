@@ -1,0 +1,28 @@
+{"artist": {
+        "name": "ParanoidLunatic",
+        "address": "0x35e2268306aab43014da143f110431ec0140957a",
+        "show": true
+    },"listing": [
+        {
+            "image": "birdy",
+            "contract": "ItemDeadBird",
+            "category": "accessories",
+            "displayName": "Dead Bird"
+        },{
+            "image": "dealwithit",
+            "contract": "ItemMemeDealWithItShades",
+            "category": "memes",
+            "displayName": "Deal With It Shades"
+        },{
+            "image": "cheesehat",
+            "contract": "ItemCheeseheadHat",
+            "category": "hats",
+            "displayName": "Cheesehead Hat"
+        },{
+            "image": "construction",
+            "contract": "ItemHardHat",
+            "category": "hats",
+            "displayName": "Construction Hat"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{"artist": {
+        "name": "ADHDKitties",
+        "address": "0x4027B203A16158a39b80B2d3a353cA4870dCa63e",
+        "show": true
+    },"listing": [
+        {
+            "image": "tidepodbowtie",
+            "contract": "ItemMemeTidePod",
+            "category": "memes",
+            "displayName": "Tie'd Pod"
+        }
+    ]
+}

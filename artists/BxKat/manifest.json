@@ -1,0 +1,60 @@
+{
+    "artist": {
+        "name": "BxKat",
+        "address": "0xbccc57c75b5ad32c9f1655480a08d4fc0fd0f925",
+        "show": true
+    },
+    "listing": [
+      {
+          "image": "yarnball",
+          "contract": "ItemYarn",
+          "category": "accessories",
+          "displayName": "Fuzzy Ball of Yarn"
+      },{
+          "image": "cucumber",
+          "contract": "ItemMemeCucumber",
+          "category": "memes",
+          "displayName": "Cucumbers Behind Cats"
+      },{
+          "image": "chemistrycat",
+          "contract": "ItemMemeScience",
+          "category": "memes",
+          "displayName": "Chemistry Cat"
+      },{
+          "image": "breading",
+          "contract": "ItemMemeBread",
+          "category": "memes",
+          "displayName": "Breading"
+      },{
+          "image": "keyboard",
+          "contract": "ItemMemeKeyboard",
+          "category": "memes",
+          "displayName": "Keyboard Cat"
+      },{
+          "image": "tinybox",
+          "contract": "ItemMemeMaruBox",
+          "category": "memes",
+          "displayName": "Maru's Tiny Box"
+      },{
+          "image": "strawberryhat",
+          "contract": "ItemMemeStrawberryHat",
+          "category": "memes",
+          "displayName": "More Treats?! Strawberry Hat"
+      },{
+          "image": "pumpkinhat",
+          "contract": "ItemMemePumpkinHat",
+          "category": "memes",
+          "displayName": "More Treats?! Pumpkin Hat"
+      },{
+          "image": "candyhearts",
+          "contract": "ItemValentinesCandyHearts",
+          "category": "valentines",
+          "displayName": "Candy Hearts"
+      },{
+          "image": "heartsbg",
+          "contract": "ItemValentinesHeartsBackground",
+          "category": "valentines",
+          "displayName": "Surrounded by Love"
+      }
+    ]
+}
