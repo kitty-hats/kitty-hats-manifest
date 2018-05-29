@@ -415,6 +415,13 @@
 					"tokenAddress": "0x1fed670f81162db861dd41b8125ec2ded36f26b3",
 					"artist": "Kittyhawk",
 					"assetUrl": "k4c_balloon"
+				},
+				{
+					"name": "Pizza Turntable",
+					"contract": "ItemPizza",
+					"tokenAddress": "0xbd5063809907ed5b56ba1889704559b99c669c86",
+					"artist": "Kittyhawk",
+					"assetUrl": "pizza_turntable"
 				}
 			],
 			"order": 9

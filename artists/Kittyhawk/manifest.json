@@ -116,6 +116,11 @@
             "category": "accessories",
             "displayName": "Bubbles For Sadie (#K4C)",
             "charity": "Kitties For a Cause"
+        },{
+            "image": "pizza_turntable",
+            "contract": "ItemPizza",
+            "category": "special",
+            "displayName": "Pizza Turntable"
         }
     ]
 }

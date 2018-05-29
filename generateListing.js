@@ -221,9 +221,11 @@ async function cleanDir(dir) {
 
 async function loadContracts() {
     const result = {};
-    const contractsDir = path.join(__dirname, 'kitty-hats-contracts');
+    const contractsDir = path.join(__dirname, '../contracts/build/contracts');
+    console.log(contractsDir)
     const files = fs.readdirSync(contractsDir);
     for (file of files) {
+    console.log(file)
         if (file === '.git' ||  file === 'sync.sh') {
             continue;
         }
