@@ -1,0 +1,75 @@
+{
+    "artist": {
+        "name": "MH10k",
+        "address": "this is your ETH wallet address",
+        "show": true
+    },
+    "listing": [
+      {
+          "image": "Bluesuit",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Buxtogo",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Ckcoffeeco",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Clooney",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Coffeemug",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Coffeesaucer",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Greysuit",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Martini",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Pattern1",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Pinkmartini",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Teacup",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Tuxedo",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      },{
+          "image": "Whitetux",
+          "contract": "",
+          "category": "costumes",
+          "displayName": "Give This a Name"
+      }
+    ]
+}
