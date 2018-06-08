@@ -7,67 +7,67 @@
     "listing": [
       {
           "image": "Bluesuit",
-          "contract": "",
+          "contract": "ItemBlueSuit",
           "category": "costumes",
           "displayName": "Blue Suit"
       },{
           "image": "Buxtogo",
-          "contract": "",
+          "contract": "ItemBuxToGo",
           "category": "accessories",
           "displayName": "Bux-To-Go"
       },{
           "image": "Ckcoffeeco",
-          "contract": "",
+          "contract": "ItemCKCoffee",
           "category": "accessories",
           "displayName": "CK Coffee Co."
       },{
           "image": "Clooney",
-          "contract": "",
+          "contract": "ItemClooney",
           "category": "costumes",
           "displayName": "The Clooney"
       },{
           "image": "Coffeemug",
-          "contract": "",
+          "contract": "ItemCoffeeMug",
           "category": "accessories",
           "displayName": "Morning Cup-a-joe"
       },{
           "image": "Coffeesaucer",
-          "contract": "",
+          "contract": "ItemCoffeeSaucer",
           "category": "accessories",
           "displayName": "Coffee cup and saucer"
       },{
           "image": "Greysuit",
-          "contract": "",
+          "contract": "ItemGreySuit",
           "category": "costumes",
           "displayName": "Business Cat"
       },{
           "image": "Martini",
-          "contract": "",
+          "contract": "ItemBlueMartini",
           "category": "accessories",
           "displayName": "Cool Blue Martini"
       },{
-          "image": "Pattern1",
-          "contract": "",
+          "image": "Miamisuit",
+          "contract": "ItemMiamiSuit",
           "category": "costumes",
           "displayName": "Miami Suit"
       },{
           "image": "Pinkmartini",
-          "contract": "",
+          "contract": "ItemPinkMartini",
           "category": "accessories",
           "displayName": "Flirty Pink Martini"
       },{
           "image": "Teacup",
-          "contract": "",
+          "contract": "ItemTeaCup",
           "category": "accessories",
           "displayName": "Tea Time"
       },{
           "image": "Tuxedo",
-          "contract": "",
+          "contract": "ItemTuxedo",
           "category": "costumes",
           "displayName": "A Night at the Opera"
       },{
           "image": "Whitetux",
-          "contract": "",
+          "contract": "ItemWhiteTux",
           "category": "costumes",
           "displayName": "Bond. James Bond."
       }
