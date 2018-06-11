@@ -23,6 +23,36 @@
             "contract": "ItemHardHat",
             "category": "hats",
             "displayName": "Construction Hat"
+        },{
+            "image": "graduation",
+            "contract": "ItemGraduationCap",
+            "category": "hats",
+            "displayName": "Graduation Cap"
+        },{
+            "image": "khtattoo",
+            "contract": "ItemKHTattoo",
+            "category": "accessories",
+            "displayName": "KH Tattoo"
+        },{
+            "image": "whiteflower",
+            "contract": "ItemFlowerWhite",
+            "category": "accessories",
+            "displayName": "White Flower"
+        },{
+            "image": "greysilkscarf",
+            "contract": "ItemGreySilkScarf",
+            "category": "accessories",
+            "displayName": "Grey Silk Scarf"
+        },{
+            "image": "batman",
+            "contract": "ItemBatman",
+            "category": "costumes",
+            "displayName": "Batman Suit"
+        },{
+            "image": "superman",
+            "contract": "ItemSuperman",
+            "category": "costumes",
+            "displayName": "Superman Suit"
         }
     ]
 }

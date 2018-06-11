@@ -57,7 +57,7 @@
 					"assetUrl": "momtat"
 				}
 			],
-			"order": 6
+			"order": 3
 		},
 		"hats": {
 			"displayName": "Hats",
@@ -119,7 +119,7 @@
 					"assetUrl": "wayfarers"
 				}
 			],
-			"order": 8
+			"order": 6
 		}
 	}
 }

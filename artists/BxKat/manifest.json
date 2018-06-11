@@ -6,6 +6,51 @@
     },
     "listing": [
       {
+          "image": "goldhalo",
+          "contract": "ItemGoldHalo",
+          "category": "hats",
+          "displayName": "Gold Halo"
+      },{
+          "image": "silverhalo",
+          "contract": "ItemSilverHalo",
+          "category": "hats",
+          "displayName": "Silver Halo"
+      },{
+          "image": "butterflytoy",
+          "contract": "ItemButterflyToy",
+          "category": "accessories",
+          "displayName": "Butterfly Toy"
+      },{
+          "image": "eyepatch",
+          "contract": "ItemEyepatch",
+          "category": "accessories",
+          "displayName": "Eyepatch"
+      },{
+          "image": "heartsbg2",
+          "contract": "ItemHearts",
+          "category": "accessories",
+          "displayName": "Surrounded by Love 2"
+      },{
+          "image": "pearlnecklace",
+          "contract": "ItemPearlNecklace",
+          "category": "accessories",
+          "displayName": "Pearl Necklace"
+      },{
+          "image": "piratehat",
+          "contract": "ItemPirateHat",
+          "category": "hats",
+          "displayName": "Pirate Hat"
+      },{
+          "image": "spikedcuffs",
+          "contract": "ItemSpikedCuffs",
+          "category": "accessories",
+          "displayName": "Spiked Cuffs"
+      },{
+          "image": "starsbg",
+          "contract": "ItemStars",
+          "category": "accessories",
+          "displayName": "Surrounded by Stars"
+      },{
           "image": "yarnball",
           "contract": "ItemYarn",
           "category": "accessories",
@@ -45,16 +90,6 @@
           "contract": "ItemMemePumpkinHat",
           "category": "memes",
           "displayName": "More Treats?! Pumpkin Hat"
-      },{
-          "image": "candyhearts",
-          "contract": "ItemValentinesCandyHearts",
-          "category": "valentines",
-          "displayName": "Candy Hearts"
-      },{
-          "image": "heartsbg",
-          "contract": "ItemValentinesHeartsBackground",
-          "category": "valentines",
-          "displayName": "Surrounded by Love"
       }
     ]
 }

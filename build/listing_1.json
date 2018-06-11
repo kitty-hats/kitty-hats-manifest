@@ -71,11 +71,161 @@
 					"assetUrl": "dealwithit"
 				}
 			],
-			"order": 1
+			"order": 2
+		},
+		"hats": {
+			"displayName": "Hats",
+			"items": [
+				{
+					"name": "Gold Halo",
+					"contract": "ItemGoldHalo",
+					"tokenAddress": "0x58adcda20d735667276d534f67afc2a1522dd8fc",
+					"artist": "BxKat",
+					"assetUrl": "goldhalo"
+				},
+				{
+					"name": "Silver Halo",
+					"contract": "ItemSilverHalo",
+					"tokenAddress": "0xb42cf1e8ed1c590d1621410e659e2a56caf8d4d7",
+					"artist": "BxKat",
+					"assetUrl": "silverhalo"
+				},
+				{
+					"name": "Pirate Hat",
+					"contract": "ItemPirateHat",
+					"tokenAddress": "0xe3e991f299afdb1405b1dcf066f70032544aeab8",
+					"artist": "BxKat",
+					"assetUrl": "piratehat"
+				},
+				{
+					"name": "Flat Brim",
+					"contract": "ItemFlatBrim",
+					"tokenAddress": "0x64e5e8fe8210bca8ad0571b4711d77161ac459a3",
+					"assetUrl": "flatbrim"
+				},
+				{
+					"name": "Tiara",
+					"contract": "ItemTiara",
+					"tokenAddress": "0x2a7fa1308c075cf214e66c2caa67883da4fa508f",
+					"assetUrl": "tiara"
+				},
+				{
+					"name": "Tin foil",
+					"contract": "ItemTinFoil",
+					"tokenAddress": "0xf3126a961abc4cef0cefcb2510be431ce2782b7f",
+					"charity": "ASPCA and ETH Foundation",
+					"assetUrl": "tinfoil"
+				},
+				{
+					"name": "Top Hat",
+					"contract": "ItemTopHat",
+					"tokenAddress": "0xcd1b3ecffeacdcfc01054848225eb627bc9c590f",
+					"assetUrl": "tophat"
+				},
+				{
+					"name": "Trapper",
+					"contract": "ItemTrapper",
+					"tokenAddress": "0x8b3c87830bb23da1270803f92ff8ffa9d4a67338",
+					"charity": "Pussyhat Project",
+					"assetUrl": "trapper"
+				},
+				{
+					"name": "Viking Helmet",
+					"contract": "ItemVikingHat",
+					"tokenAddress": "0xb106e0cfd724fca820d342b5a4ac2526108a6a56",
+					"artist": "Kittyhawk",
+					"assetUrl": "vikinghelmet"
+				},
+				{
+					"name": "Blue Top Hat",
+					"contract": "ItemTopHatBlue",
+					"tokenAddress": "0xf62215163b2dbbc0b8a57f7ce8238b4d7a3b8aea",
+					"artist": "Kittyhawk",
+					"assetUrl": "tophat_blue"
+				},
+				{
+					"name": "Blue Beret",
+					"contract": "ItemBeret",
+					"tokenAddress": "0x075dd07ff62488810d30d61c93dc4be94eb31be9",
+					"artist": "Kittyhawk",
+					"assetUrl": "beret_blue"
+				},
+				{
+					"name": "Shower Cap",
+					"contract": "ItemShowerCap",
+					"tokenAddress": "0xb7e485240fb515cb6d38ef06824b1fa1db05ff8b",
+					"artist": "LauraO",
+					"assetUrl": "shower_cap"
+				},
+				{
+					"name": "Cheesehead Hat",
+					"contract": "ItemCheeseheadHat",
+					"tokenAddress": "0x17185d3b4d1e2630366886f78cb11d6ec807df40",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "cheesehat"
+				},
+				{
+					"name": "Construction Hat",
+					"contract": "ItemHardHat",
+					"tokenAddress": "0x0cc0bb67b6b0c92c56328271cd6d767caa8494ab",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "construction"
+				},
+				{
+					"name": "Graduation Cap",
+					"contract": "ItemGraduationCap",
+					"tokenAddress": "0x54cd89c959178a4303544fc326b3fc4e7a5a17ed",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "graduation"
+				}
+			],
+			"order": 5
 		},
 		"accessories": {
 			"displayName": "Accessories",
 			"items": [
+				{
+					"name": "Butterfly Toy",
+					"contract": "ItemButterflyToy",
+					"tokenAddress": "0x10b9460dc6d39b880825391af047405a50db908f",
+					"artist": "BxKat",
+					"assetUrl": "butterflytoy"
+				},
+				{
+					"name": "Eyepatch",
+					"contract": "ItemEyepatch",
+					"tokenAddress": "0x0400180d3211eb58d693dae22b98585ea77db3ca",
+					"artist": "BxKat",
+					"assetUrl": "eyepatch"
+				},
+				{
+					"name": "Surrounded by Love 2",
+					"contract": "ItemHearts",
+					"tokenAddress": "0xfebc83bc7f97690f94bc2888d399b740492733b5",
+					"artist": "BxKat",
+					"assetUrl": "heartsbg2"
+				},
+				{
+					"name": "Pearl Necklace",
+					"contract": "ItemPearlNecklace",
+					"tokenAddress": "0x8227606e616e50d899eca277e6ceef7719bb9922",
+					"artist": "BxKat",
+					"assetUrl": "pearlnecklace"
+				},
+				{
+					"name": "Spiked Cuffs",
+					"contract": "ItemSpikedCuffs",
+					"tokenAddress": "0xba14052f4f351f0f992e7418e45cb02784e7de01",
+					"artist": "BxKat",
+					"assetUrl": "spikedcuffs"
+				},
+				{
+					"name": "Surrounded by Stars",
+					"contract": "ItemStars",
+					"tokenAddress": "0x7ae147d2473fe36f548173b6b04e608fa1943c7f",
+					"artist": "BxKat",
+					"assetUrl": "starsbg"
+				},
 				{
 					"name": "Fuzzy Ball of Yarn",
 					"contract": "ItemYarn",
@@ -187,38 +337,81 @@
 					"assetUrl": "birdy"
 				},
 				{
+					"name": "KH Tattoo",
+					"contract": "ItemKHTattoo",
+					"tokenAddress": "0x594fc7779454ddcf05b9b04043b3dacc0b9521a2",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "khtattoo"
+				},
+				{
+					"name": "White Flower",
+					"contract": "ItemFlowerWhite",
+					"tokenAddress": "0xc6202f8542e480a2a7915a2992bd1b996780e6aa",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "whiteflower"
+				},
+				{
+					"name": "Grey Silk Scarf",
+					"contract": "ItemGreySilkScarf",
+					"tokenAddress": "0x54ad662dbf6627582dfddc6a3d2ff60770e3c371",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "greysilkscarf"
+				},
+				{
 					"name": "Diamond Bracelet",
 					"contract": "ItemSpikedBracelet",
 					"tokenAddress": "0x8518f0eb44247c62d07a5ff0d97137a6285554c8",
 					"artist": "janbro",
 					"assetUrl": "diamond_bracelet"
-				}
-			],
-			"order": 6
-		},
-		"valentines": {
-			"displayName": "Valentines",
-			"items": [
-				{
-					"name": "Candy Hearts",
-					"contract": "ItemValentinesCandyHearts",
-					"tokenAddress": "0xe09a0238153a0c225e1157974990b8b9559cd2b6",
-					"artist": "BxKat",
-					"assetUrl": "candyhearts"
 				},
 				{
-					"name": "Surrounded by Love",
-					"contract": "ItemValentinesHeartsBackground",
-					"tokenAddress": "0x104c09b7696744ad6f7a68af0d6cec10238a94a4",
-					"artist": "BxKat",
-					"assetUrl": "heartsbg"
+					"name": "Bux-To-Go",
+					"contract": "ItemBuxToGo",
+					"tokenAddress": "0x79d8c7a6320ceb5e3269e78f37573972ab27110d",
+					"artist": "mh10k",
+					"assetUrl": "Buxtogo"
 				},
 				{
-					"name": "Hearts Headband",
-					"contract": "ItemValentinesHeartsHeadband",
-					"tokenAddress": "0x88a2213dc4340b1333afa386d4db7a3b7a425230",
-					"artist": "Kittyhawk",
-					"assetUrl": "headband_heart"
+					"name": "Kitty Coffee Co.",
+					"contract": "ItemKittyCoffee",
+					"tokenAddress": "0x0efd0a6b16dc09536133df3f208ee4414b03483e",
+					"artist": "mh10k",
+					"assetUrl": "Ckcoffeeco"
+				},
+				{
+					"name": "Morning Cup-a-Joe",
+					"contract": "ItemCoffeeMug",
+					"tokenAddress": "0xdb4ebb8c117350e2294b8a2be295684dbd66c001",
+					"artist": "mh10k",
+					"assetUrl": "Coffeemug"
+				},
+				{
+					"name": "Coffee Cup and Saucer",
+					"contract": "ItemCoffeeSaucer",
+					"tokenAddress": "0x3444c87489aebceb43ce8ac9dfa12a15d3c9becf",
+					"artist": "mh10k",
+					"assetUrl": "Coffeesaucer"
+				},
+				{
+					"name": "Martini",
+					"contract": "ItemMartini",
+					"tokenAddress": "0x71c2bc4df088be91e315207a190cc7b3257f6742",
+					"artist": "mh10k",
+					"assetUrl": "Bluemartini"
+				},
+				{
+					"name": "Cosmopolitan",
+					"contract": "ItemCosmopolitan",
+					"tokenAddress": "0x8442f99a0eac542cd6a30c1c557f146fda628c1e",
+					"artist": "mh10k",
+					"assetUrl": "Pinkmartini"
+				},
+				{
+					"name": "Tea Time",
+					"contract": "ItemTeaCup",
+					"tokenAddress": "0xb3b52fad9fa87eb09de3ec2a2bb3988f875f2ad6",
+					"artist": "mh10k",
+					"assetUrl": "Teacup"
 				}
 			],
 			"order": 3
@@ -254,100 +447,6 @@
 			],
 			"order": 7
 		},
-		"hats": {
-			"displayName": "Hats",
-			"items": [
-				{
-					"name": "Flat Brim",
-					"contract": "ItemFlatBrim",
-					"tokenAddress": "0x64e5e8fe8210bca8ad0571b4711d77161ac459a3",
-					"assetUrl": "flatbrim"
-				},
-				{
-					"name": "Tiara",
-					"contract": "ItemTiara",
-					"tokenAddress": "0x2a7fa1308c075cf214e66c2caa67883da4fa508f",
-					"assetUrl": "tiara"
-				},
-				{
-					"name": "Tin foil",
-					"contract": "ItemTinFoil",
-					"tokenAddress": "0xf3126a961abc4cef0cefcb2510be431ce2782b7f",
-					"charity": "ASPCA and ETH Foundation",
-					"assetUrl": "tinfoil"
-				},
-				{
-					"name": "Top Hat",
-					"contract": "ItemTopHat",
-					"tokenAddress": "0xcd1b3ecffeacdcfc01054848225eb627bc9c590f",
-					"assetUrl": "tophat"
-				},
-				{
-					"name": "Trapper",
-					"contract": "ItemTrapper",
-					"tokenAddress": "0x8b3c87830bb23da1270803f92ff8ffa9d4a67338",
-					"charity": "Pussyhat Project",
-					"assetUrl": "trapper"
-				},
-				{
-					"name": "Viking Helmet",
-					"contract": "ItemVikingHat",
-					"tokenAddress": "0xb106e0cfd724fca820d342b5a4ac2526108a6a56",
-					"artist": "Kittyhawk",
-					"assetUrl": "vikinghelmet"
-				},
-				{
-					"name": "Birds of Prey Helmet",
-					"contract": "ItemHelmetBird",
-					"tokenAddress": "0x8f5155ddc1a859c22ba3d7a2f409175e69933cdc",
-					"artist": "Kittyhawk",
-					"assetUrl": "helmet_football_birdsofprey"
-				},
-				{
-					"name": "Patriotic Helmet",
-					"contract": "ItemHelmetPat",
-					"tokenAddress": "0x0dd3b0163c8974e1673601c06ab2a45d762aaff8",
-					"artist": "Kittyhawk",
-					"assetUrl": "helmet_football_patriotic"
-				},
-				{
-					"name": "Blue Top Hat",
-					"contract": "ItemTopHatBlue",
-					"tokenAddress": "0xf62215163b2dbbc0b8a57f7ce8238b4d7a3b8aea",
-					"artist": "Kittyhawk",
-					"assetUrl": "tophat_blue"
-				},
-				{
-					"name": "Blue Beret",
-					"contract": "ItemBeret",
-					"tokenAddress": "0x075dd07ff62488810d30d61c93dc4be94eb31be9",
-					"artist": "Kittyhawk",
-					"assetUrl": "beret_blue"
-				},
-				{
-					"name": "Shower Cap",
-					"contract": "ItemShowerCap",
-					"tokenAddress": "0xb7e485240fb515cb6d38ef06824b1fa1db05ff8b",
-					"artist": "LauraO",
-					"assetUrl": "shower_cap"
-				},
-				{
-					"name": "Cheesehead Hat",
-					"contract": "ItemCheeseheadHat",
-					"tokenAddress": "0x17185d3b4d1e2630366886f78cb11d6ec807df40",
-					"artist": "ParanoidLunatic",
-					"assetUrl": "cheesehat"
-				},
-				{
-					"name": "Construction Hat",
-					"contract": "ItemHardHat",
-					"tokenAddress": "0x0cc0bb67b6b0c92c56328271cd6d767caa8494ab",
-					"artist": "ParanoidLunatic",
-					"assetUrl": "construction"
-				}
-			],
-			"order": 5
-		},
 		"glasses": {
 			"displayName": "Glasses",
 			"items": [
@@ -370,7 +469,7 @@
 					"assetUrl": "wayfarers"
 				}
 			],
-			"order": 8
+			"order": 6
 		},
 		"costumes": {
 			"displayName": "Costumes",
@@ -395,6 +494,62 @@
 					"tokenAddress": "0x2a11b2990dca671df8f9e71754b94eb49b62a516",
 					"artist": "Kittyhawk",
 					"assetUrl": "ballerina_costume"
+				},
+				{
+					"name": "Batman Suit",
+					"contract": "ItemBatman",
+					"tokenAddress": "0x18b632cafd38cc354cc3963d503d098cb73c1720",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "batman"
+				},
+				{
+					"name": "Superman Suit",
+					"contract": "ItemSuperman",
+					"tokenAddress": "0x91739239eb12dcce94d0d6be43f55e2993a5588e",
+					"artist": "ParanoidLunatic",
+					"assetUrl": "superman"
+				},
+				{
+					"name": "Blue Suit",
+					"contract": "ItemBlueSuit",
+					"tokenAddress": "0x7af0f7286fc4a1719c08bebc5a5a0961b1a24e03",
+					"artist": "mh10k",
+					"assetUrl": "Bluesuit"
+				},
+				{
+					"name": "The Clooney",
+					"contract": "ItemClooney",
+					"tokenAddress": "0xe7799c4f097a40651dad1b17159fcf5805d9a9c6",
+					"artist": "mh10k",
+					"assetUrl": "Clooney"
+				},
+				{
+					"name": "Grey Suit",
+					"contract": "ItemGreySuit",
+					"tokenAddress": "0x59dddaf0c142739d963ca3741d04330d48988f68",
+					"artist": "mh10k",
+					"assetUrl": "Greysuit"
+				},
+				{
+					"name": "Miami Suit",
+					"contract": "ItemMiamiSuit",
+					"tokenAddress": "0xf4955dd4de4864f0fa7fbded77588e6308a0f569",
+					"artist": "mh10k",
+					"assetUrl": "Miamisuit"
+				},
+				{
+					"name": "Tuxedo",
+					"contract": "ItemTuxedo",
+					"tokenAddress": "0x13b9c431e6e11ff9665c578dab58f20950b7877b",
+					"artist": "mh10k",
+					"assetUrl": "Tuxedo"
+				},
+				{
+					"name": "White Tuxedo",
+					"contract": "ItemWhiteTuxedo",
+					"tokenAddress": "0x4db80cd3b953689955e4b9197c1d5d6c369755f8",
+					"artist": "mh10k",
+					"assetUrl": "Whitetux"
 				}
 			],
 			"order": 4
@@ -424,7 +579,7 @@
 					"assetUrl": "pizza_turntable"
 				}
 			],
-			"order": 9
+			"order": 8
 		},
 		"dada": {
 			"displayName": "dada.nyc",
@@ -606,7 +761,7 @@
 					"url": "https://dada.nyc/pa/79512?khf=on#79512"
 				}
 			],
-			"order": 2
+			"order": 1
 		}
 	}
 }

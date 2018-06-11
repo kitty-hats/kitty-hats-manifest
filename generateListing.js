@@ -28,8 +28,8 @@ async function readJSONFile(path) {
 async function main() {
     const networks = [
         '1',
-        '3', 
-        '5777'
+        // '3', 
+        // '5777'
     ];
 
     const contracts = await loadContracts();

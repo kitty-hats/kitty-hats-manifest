@@ -13,26 +13,22 @@
     },
     "accessories": {
         "displayName": "Accessories",
-        "order": 6
+        "order": 3
     },
     "glasses": {
         "displayName": "Glasses",
-        "order": 8
+        "order": 6
     },
     "special": {
         "displayName": "special",
-        "order": 9
-    },
-    "valentines": {
-        "displayName": "Valentines",
-        "order": 3
+        "order": 8 
     },
     "dada": {
         "displayName": "dada.nyc",
-        "order": 2
+        "order": 1 
     },
     "memes": {
         "displayName": "Memes",
-        "order": 1
+        "order": 2
     }
 }

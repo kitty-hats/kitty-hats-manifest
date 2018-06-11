@@ -17,9 +17,9 @@
           "displayName": "Bux-To-Go"
       },{
           "image": "Ckcoffeeco",
-          "contract": "ItemCKCoffee",
+          "contract": "ItemKittyCoffee",
           "category": "accessories",
-          "displayName": "CK Coffee Co."
+          "displayName": "Kitty Coffee Co."
       },{
           "image": "Clooney",
           "contract": "ItemClooney",
@@ -29,22 +29,22 @@
           "image": "Coffeemug",
           "contract": "ItemCoffeeMug",
           "category": "accessories",
-          "displayName": "Morning Cup-a-joe"
+          "displayName": "Morning Cup-a-Joe"
       },{
           "image": "Coffeesaucer",
           "contract": "ItemCoffeeSaucer",
           "category": "accessories",
-          "displayName": "Coffee cup and saucer"
+          "displayName": "Coffee Cup and Saucer"
       },{
           "image": "Greysuit",
           "contract": "ItemGreySuit",
           "category": "costumes",
-          "displayName": "Business Cat"
+          "displayName": "Grey Suit"
       },{
           "image": "Bluemartini",
-          "contract": "ItemBlueMartini",
+          "contract": "ItemMartini",
           "category": "accessories",
-          "displayName": "Cool Blue Martini"
+          "displayName": "Martini"
       },{
           "image": "Miamisuit",
           "contract": "ItemMiamiSuit",
@@ -52,9 +52,9 @@
           "displayName": "Miami Suit"
       },{
           "image": "Pinkmartini",
-          "contract": "ItemPinkMartini",
+          "contract": "ItemCosmopolitan",
           "category": "accessories",
-          "displayName": "Flirty Pink Martini"
+          "displayName": "Cosmopolitan"
       },{
           "image": "Teacup",
           "contract": "ItemTeaCup",
@@ -64,12 +64,12 @@
           "image": "Tuxedo",
           "contract": "ItemTuxedo",
           "category": "costumes",
-          "displayName": "A Night at the Opera"
+          "displayName": "Tuxedo"
       },{
           "image": "Whitetux",
-          "contract": "ItemWhiteTux",
+          "contract": "ItemWhiteTuxedo",
           "category": "costumes",
-          "displayName": "Bond. James Bond."
+          "displayName": "White Tuxedo"
       }
     ]
 }

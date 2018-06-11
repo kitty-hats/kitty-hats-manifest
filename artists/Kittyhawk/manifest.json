@@ -51,16 +51,6 @@
             "category": "costumes",
             "displayName": "Ballerina Outfit"
         },{
-            "image": "helmet_football_birdsofprey",
-            "contract": "ItemHelmetBird",
-            "category": "hats",
-            "displayName": "Birds of Prey Helmet"
-        },{
-            "image": "helmet_football_patriotic",
-            "contract": "ItemHelmetPat",
-            "category": "hats",
-            "displayName": "Patriotic Helmet"
-        },{
             "image": "sign_pawmepls",
             "contract": "ItemPawMePls",
             "category": "accessories",
@@ -80,11 +70,6 @@
             "contract": "Item3dGlasses",
             "category": "accessories",
             "displayName": "3D glasses"
-        },{
-            "image": "headband_heart",
-            "contract": "ItemValentinesHeartsHeadband",
-            "category": "valentines",
-            "displayName": "Hearts Headband"
         },{
             "image": "tophat_blue",
             "contract": "ItemTopHatBlue",
