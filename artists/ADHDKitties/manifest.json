@@ -8,10 +8,6 @@
             "contract": "ItemMemeTidePod",
             "category": "memes",
             "displayName": "Tie'd Pod"
-        },{
-            "image": "classicdiamond",
-            "contract": "ItemClassicDiamond",
-            "category": "accessories",
-            "displayName": "Classic Diamond"
         }
     ]
+}
