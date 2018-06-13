@@ -90,6 +90,16 @@
           "contract": "ItemMemePumpkinHat",
           "category": "memes",
           "displayName": "More Treats?! Pumpkin Hat"
+      },{
+          "image": "candyhearts",
+          "contract": "ItemValentinesCandyHearts",
+          "category": "seasonal",
+          "displayName": "Candy Hearts"
+      },{
+          "image": "heartsbg",
+          "contract": "ItemValentinesHeartsBackground",
+          "category": "seasonal",
+          "displayName": "Surrounded by Love"
       }
     ]
 }

@@ -106,6 +106,21 @@
             "contract": "ItemPizza",
             "category": "special",
             "displayName": "Pizza Turntable"
+        },{
+            "image": "helmet_football_birdsofprey",
+            "contract": "ItemHelmetBird",
+            "category": "seasonal",
+            "displayName": "Birds of Prey Helmet"
+        },{
+            "image": "helmet_football_patriotic",
+            "contract": "ItemHelmetPat",
+            "category": "seasonal",
+            "displayName": "Patriotic Helmet"
+        },{
+            "image": "headband_heart",
+            "contract": "ItemValentinesHeartsHeadband",
+            "category": "seasonal",
+            "displayName": "Hearts Headband"
         }
     ]
 }
