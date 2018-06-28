@@ -26,11 +26,6 @@
           "category": "worldcup",
           "displayName": "France Hat"
       },{
-          "image": "germanyhat",
-          "contract": "ItemGermanyHat",
-          "category": "worldcup",
-          "displayName": "Germany Hat"
-      },{
           "image": "spainhat",
           "contract": "ItemSpainHat",
           "category": "worldcup",

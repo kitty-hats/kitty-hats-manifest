@@ -195,13 +195,6 @@
 					"assetUrl": "francehat"
 				},
 				{
-					"name": "Germany Hat",
-					"contract": "ItemGermanyHat",
-					"tokenAddress": "0x71d439e6d2c68b1b1eb850b3f05c133582eaedc8",
-					"artist": "B. Yaporandy",
-					"assetUrl": "germanyhat"
-				},
-				{
 					"name": "Spain Hat",
 					"contract": "ItemSpainHat",
 					"tokenAddress": "0x6cafeecfbcf707406ba3d2f95623a8f9b4ce71d1",
