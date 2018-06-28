@@ -16,6 +16,43 @@
 			"address": "0xbccc57c75b5ad32c9f1655480a08d4fc0fd0f925",
 			"show": true
 		},
+		"janbro": {
+			"name": "janbro",
+			"address": "0xA2bA02db5c34B11C1Be0A25417851C9DfC5d4467",
+			"url": "https://stock.adobe.com/contributor/207311271/Alejandro%20McDonald",
+			"show": true
+		},
+		"KittyHats": {
+			"name": "KittyHats",
+			"address": "0x0",
+			"show": false
+		},
+		"Kittyhawk": {
+			"name": "Kittyhawk",
+			"address": "0x579120fAddE647cf107cf68003B04F0beE205876",
+			"show": true
+		},
+		"LauraO": {
+			"name": "LauraO",
+			"address": "0x269B6f14D53Be3d47525cf356B35212fc0860450",
+			"url": "www.behance.net/LauraMODonnell",
+			"show": true
+		},
+		"MH10k": {
+			"name": "MH10k",
+			"address": "0x44b444d16935f1e9afdd58ef986ba1c93e9ee5e9",
+			"show": true
+		},
+		"ParanoidLunatic": {
+			"name": "ParanoidLunatic",
+			"address": "0x35e2268306aab43014da143f110431ec0140957a",
+			"show": true
+		},
+		"sammyt": {
+			"name": "sammyt",
+			"address": "0x579120fAddE647cf107cf68003B04F0beE205876",
+			"show": false
+		},
 		"BeatrizRamos@Dada": {
 			"name": "Bea",
 			"address": "0x4Ae392c271f0935a7C1f75bE87d08A168536Ff84",
@@ -87,43 +124,6 @@
 			"address": "0x20dA165deB81dBB042fE4A9d4808399eF2477c5d ",
 			"show": true,
 			"url": "https://dada.nyc/portraits?pl=serenastelitanoillustrator#serenastelitanoillustrator"
-		},
-		"janbro": {
-			"name": "janbro",
-			"address": "0xA2bA02db5c34B11C1Be0A25417851C9DfC5d4467",
-			"url": "https://stock.adobe.com/contributor/207311271/Alejandro%20McDonald",
-			"show": true
-		},
-		"KittyHats": {
-			"name": "KittyHats",
-			"address": "0x0",
-			"show": false
-		},
-		"Kittyhawk": {
-			"name": "Kittyhawk",
-			"address": "0x579120fAddE647cf107cf68003B04F0beE205876",
-			"show": true
-		},
-		"LauraO": {
-			"name": "LauraO",
-			"address": "0x269B6f14D53Be3d47525cf356B35212fc0860450",
-			"url": "www.behance.net/LauraMODonnell",
-			"show": true
-		},
-		"MH10k": {
-			"name": "MH10k",
-			"address": "0x44b444d16935f1e9afdd58ef986ba1c93e9ee5e9",
-			"show": true
-		},
-		"ParanoidLunatic": {
-			"name": "ParanoidLunatic",
-			"address": "0x35e2268306aab43014da143f110431ec0140957a",
-			"show": true
-		},
-		"sammyt": {
-			"name": "sammyt",
-			"address": "0x579120fAddE647cf107cf68003B04F0beE205876",
-			"show": false
 		}
 	}
 }
