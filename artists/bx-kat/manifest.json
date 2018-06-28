@@ -6,6 +6,41 @@
     },
     "listing": [
       {
+          "image": "confetti",
+          "contract": "ItemConfetti",
+          "category": "worldcup",
+          "displayName": "Confetti"
+      },{
+          "image": "soccerhatgreenblueyellow",
+          "contract": "ItemJesterVikingHat",
+          "category": "worldcup",
+          "displayName": "Jester Viking Hat"
+      },{
+          "image": "soccerhatredwhiteblue",
+          "contract": "ItemJesterHat",
+          "category": "worldcup",
+          "displayName": "Jester Hat"
+      },{
+          "image": "soccerball",
+          "contract": "ItemSoccerBall",
+          "category": "worldcup",
+          "displayName": "Soccer Ball"
+      },{
+          "image": "oversizesoccerglasses",
+          "contract": "ItemOversizeSoccerGlasses",
+          "category": "worldcup",
+          "displayName": "Oversized Glasses"
+      },{
+          "image": "vuvuwithglasses",
+          "contract": "ItemVuvuGlasses",
+          "category": "worldcup",
+          "displayName": "Glasses with Vuvuzela"
+      },{
+          "image": "toomanyvuvus",
+          "contract": "ItemTooManyVuvus",
+          "category": "worldcup",
+          "displayName": "Too many Vuvuzelas!"
+      },{
           "image": "goldhalo",
           "contract": "ItemGoldHalo",
           "category": "hats",

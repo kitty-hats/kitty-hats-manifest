@@ -1,0 +1,65 @@
+{
+    "artist": {
+        "name": "B. Yaporandy",
+        "address": "0x4eb395c9c5829a6e87fc5facfc00ccd8ab4a91ad",
+        "show": true
+    },
+    "listing": [
+      {
+          "image": "argentinahat",
+          "contract": "ItemArgentinaHat",
+          "category": "worldcup",
+          "displayName": "Argentina Hat"
+      },{
+          "image": "brazilhat",
+          "contract": "ItemBrazilHat",
+          "category": "worldcup",
+          "displayName": "Brazil Hat"
+      },{
+          "image": "englandhat",
+          "contract": "ItemEnglandHat",
+          "category": "worldcup",
+          "displayName": "England Hat"
+      },{
+          "image": "francehat",
+          "contract": "ItemFranceHat",
+          "category": "worldcup",
+          "displayName": "France Hat"
+      },{
+          "image": "germanyhat",
+          "contract": "ItemGermanyHat",
+          "category": "worldcup",
+          "displayName": "Germany Hat"
+      },{
+          "image": "spainhat",
+          "contract": "ItemSpainHat",
+          "category": "worldcup",
+          "displayName": "Spain Hat"
+      },{
+          "image": "soccerballhat",
+          "contract": "ItemSoccerBallHat",
+          "category": "worldcup",
+          "displayName": "Soccer Ball Hat"
+      },{
+          "image": "braziluniform",
+          "contract": "ItemBrazilianUniform",
+          "category": "worldcup",
+          "displayName": "Brazil Uniform"
+      },{
+          "image": "russianmascot",
+          "contract": "ItemRussianMascot",
+          "category": "worldcup",
+          "displayName": "Russian Mascot"
+      },{
+          "image": "worldcupglasses",
+          "contract": "ItemWorldCupGlasses",
+          "category": "worldcup",
+          "displayName": "World Cup Glasses"
+      },{
+          "image": "worldcuptrophy",
+          "contract": "ItemWorldCupTrophy",
+          "category": "worldcup",
+          "displayName": "Kitty World Cup Trophy"
+      }
+    ]
+}

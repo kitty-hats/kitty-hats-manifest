@@ -109,10 +109,10 @@ async function main() {
                         && isNonNull(contracts[item.contract].networks[networkId])
                         && isNonNull(contracts[item.contract].networks[networkId].address)
                     );
-                    const nameAvaliable = isNull(names[item.image]) && isNull(displayNames[item.displayName]);
+                    const nameAvailable = isNull(names[item.image]) && isNull(displayNames[item.displayName]);
                     const validCategory = isNonNull(item.category) && isNonNull(categories[item.category])
     
-                    if ( (networkId === '5777' || addressDefined === true) && imageDefined === true && previewDefined === true && displayNameDefined === true && nameAvaliable === true) {
+                    if ( (networkId === '5777' || addressDefined === true) && imageDefined === true && previewDefined === true && displayNameDefined === true && nameAvailable === true) {
                         console.log(`\t- Copying asset ${item.displayName}`);
                     } else {
                         const errs = [`There was an error with file ${item.image} for artist ${artists[i]}`];
@@ -120,7 +120,7 @@ async function main() {
                         if (!previewDefined) { errs.push('- Item preview is not correctly defined ')}
                         if (!displayNameDefined) { errs.push('- Item display name not found or not allowed ')}
                         if (!addressDefined) { errs.push(`- Item contract does not exist for the current network`)}
-                        if (!nameAvaliable) { errs.push(`- Item name and / or display name already taken`)}
+                        if (!nameAvailable) { errs.push(`- Item name and / or display name already taken`)}
                         if (!validCategory) { errs.push(`- Item category is not defined or invalid`)}
                         console.error(new Error(errs.join('\n')));
                         continue;
